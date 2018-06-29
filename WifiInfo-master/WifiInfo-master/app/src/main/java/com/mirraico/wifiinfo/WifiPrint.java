@@ -1,6 +1,8 @@
 package com.mirraico.wifiinfo;
 
-
+/**
+ * 第一次修改
+ */
 public class WifiPrint implements Comparable {
     private String ssid;
     private int rssi;
